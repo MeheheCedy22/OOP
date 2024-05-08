@@ -1,6 +1,9 @@
 # OOP
 Objektovo orientované programovanie - 2.semester/4.semester
 
+[Stránka predmetu](http://www2.fiit.stuba.sk/oop/index.html)
+[Zadanie projektu](http://www2.fiit.stuba.sk/oop/projekt/index.html)
+
 ### Autor: Marek Čederle
 
 [Dokumentácia MarkDown](YourVoteMatters/doc/dokumentacia.md)
