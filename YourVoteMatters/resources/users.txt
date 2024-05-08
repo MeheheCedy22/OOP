@@ -1,0 +1,11 @@
+visitor visitor VISITOR
+voter voter VOTER
+organizer organizer ORGANIZER
+admin admin ADMIN
+root root ADMIN
+jano jano VOTER
+peto peto VOTER
+miro miro VOTER
+jozo jozo VOTER
+marek marek ORGANIZER
+milan milan VISITOR
