@@ -1,4 +1,4 @@
-# Objektovo oreintované programovanie
+# Objektovo orientované programovanie
 ## Semestrálny projekt - YourVoteMatters
 ##### (Aplikácie pre hlasovania v mestskom zastupiteľstve)
 ###### Autor: Marek Čederle
