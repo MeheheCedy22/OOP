@@ -1,5 +1,6 @@
 # OOP
 Objektovo orientované programovanie - 2.semester/4.semester
+Pôvodne 2.semester, táto aplikácia bola však vypracovaná v 4.semestri.
 
 [Stránka predmetu](http://www2.fiit.stuba.sk/oop/index.html)
 
