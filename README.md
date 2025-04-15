@@ -9,9 +9,7 @@ Pôvodne 2.semester, táto aplikácia bola však vypracovaná v 4.semestri.
 
 ### Autor: Marek Čederle
 
-[Dokumentácia MarkDown](YourVoteMatters/doc/dokumentacia.md)
-
-[Dokumentácia PDF](YourVoteMatters/doc/dokumentacia.pdf)
+Dokumentácia ([MarkDown](YourVoteMatters/doc/dokumentacia.md) / [PDF](YourVoteMatters/doc/dokumentacia.pdf))
 
 [Diagram tried](YourVoteMatters/doc/images/YourVoteMatters.png)
 
